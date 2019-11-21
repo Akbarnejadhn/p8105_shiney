@@ -1,0 +1,28 @@
+---
+title: "shiney"
+author: "Hana Akbarnejad"
+date: "11/21/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+
+shiny::runExample("01_hello")
+```
+
+R should be installed in the place that shiny is run! Sho, sharing it is a little tricky.
+should put it somewhere poeple can acess it, but that is also tricky...
+if producing shiny for a small group of people with the same skillset, it is easy to share.
+putting it on github regularly not gonna work.
+shineyapps.io is common!
+
+```{r}
+
+
+```
+
